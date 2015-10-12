@@ -1,6 +1,7 @@
 function banana
     do some banana stuff
-    
-    test if banana is an integer
+    if banana is divided by 0, turn the mininons purple
+
+test if banana is an integer
 
 function orange
